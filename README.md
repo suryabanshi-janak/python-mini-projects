@@ -5,6 +5,7 @@ Welcome to the Python Mini Projects Repository! This repository houses a collect
 ## Table of Contents
 
 1. [Project 1: Hangman](./hangman)
+2. [Project 2: Countdown Timer](./countdown-timer)
 
 ## Getting Started
 
