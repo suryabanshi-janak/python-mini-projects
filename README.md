@@ -7,6 +7,7 @@ Welcome to the Python Mini Projects Repository! This repository houses a collect
 1. [Project 1: Hangman](./hangman)
 2. [Project 2: Countdown Timer](./countdown-timer)
 3. [Project 3: Quiz](./quiz)
+4. [Project 4: Turtle GUI](./turtle)
 
 ## Getting Started
 
